@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/.zero_sama">
+  <a href="https://github.com/zerosama-sorasaki">
     <img src="./138310149_p0_rotated.jpg" width="100%">
   </a>
 </p>
