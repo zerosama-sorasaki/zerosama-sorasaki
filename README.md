@@ -117,6 +117,10 @@ My GPU occasionally gets used for something other than virtualization.
 * 🎵 **Project Sekai**
 * ⌨️ **osu!**
 
+## ⌨️ **osu! stats**
+
+![osu! signature card](https://osu-sig.s23.moe/card?user=Zewo_&mode=std&lang=en&animation=true&skills=true)
+
 ## 🎧 Music
 
 Currently exploring music, rhythm games, and various forms of electronic / Japanese music.
