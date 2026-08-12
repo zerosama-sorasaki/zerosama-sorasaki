@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/.zero_sama">
+    <img src="./138310149_p0_rotated.jpg" width="100%">
+  </a>
+</p>
+
 # 👋 Hey, I'm Zero!
 
 > `sudo rm -rf --no-preservation-of-root /`
